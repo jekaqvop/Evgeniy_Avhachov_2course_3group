@@ -11,7 +11,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            void zd5()
+            //        Формальные параметры функции – массив целых и
+            //строка.Функция должна вернуть кортеж, содержащий: максимальный и
+            //минимальный элементы массива, сумму элементов массива и первую
+            //букву строки.
+            void zd5(int a, int b, char c)
             {
                 string str = "hello world";
                 int[] array = new int[5];
@@ -26,10 +30,12 @@ namespace ConsoleApp1
 
                 Console.WriteLine(myFunction(array, str));
             }
+            //////////////////////////////////////////////////////////////////////////////
+            
             int num_switch = 0;
             do
             {
-                Console.WriteLine("Выбирете номер задания: 1: zd1_ab(); 2: zd1_c(); 3:zd1_df(); 4: zd1_e(); 5:zd2_a(); 6:zd2_b(); 7: zd2_c(); 8:zd2_d(); 9:zd3_a(); 10: zd3_b(); 11: zd3_c(); 12: zd3_d(); 13: zd4(); 14: zd5(); 15: zd6(); ");
+                Console.WriteLine("Выбирете номер задания: 1: zd1_ab(); 2: zd1_c(); 3:zd1_d(); 4: zd1_e(); 5:zd1_f; 6:zd2_a(); 7:zd2_b(); 8: zd2_c(); 9:zd2_d(); 10:zd3_a(); 11: zd3_b(); 12: zd3_c(); 13: zd3_d(); 14: zd4(); 15: zd5(); 16: zd6(); ");
                 num_switch = Convert.ToInt32(Console.ReadLine());
                 switch (num_switch)
                 {
@@ -47,43 +53,46 @@ namespace ConsoleApp1
                     case 4: 
                         zd1_e();
                         break;
-
                     case 5:
+                        zd1_f();
+                        break;
+                    case 6:
                         zd2_a();
                         break;
 
-                    case 6:
+                    case 7:
                         zd2_b();
                         break;
-                    case 7:
+                    case 8:
                         zd2_c();
                         break;
-                    case 8:
+                    case 9:
                         zd2_d();
                         break;
-                    case 9:
+                    case 10:
                         zd3_a();
                         break;
-                    case 10: 
+                    case 11: 
                         zd3_b();
                         break;
 
-                    case 11:
+                    case 12:
                         zd3_c();
                         break;
-                    case 12: 
+                    case 13: 
                         zd3_d();
                         break;
-                    case 13: zd4();
+                    case 14: zd4();
                         break;
-                    case 14: zd5();
+                    
                         break;
-                    case 15: zd6();
+                    case 16: zd6();
                         break;
                 }
             } while (num_switch != 0);
             
         }
+        //Определите переменные всех возможных примитивных типов С# и проинициализируйте их. Осуществите ввод и вывод их начений используя консоль.
         static void zd1_ab()
         {
             bool check = false;
@@ -100,6 +109,7 @@ namespace ConsoleApp1
             ulong ulg = 12;
             short sh = 13;
             ushort ush = 1;
+            //Выполните 5 операций явного и 5 неявного приведения.
             //неявное
             dob = fl;
             fl = i;
@@ -129,7 +139,8 @@ namespace ConsoleApp1
             Console.WriteLine($"ulong = {ulg}");
             Console.WriteLine($"short = {sh}");
             Console.WriteLine($"ushort = {ush}");
-
+            //Изучите возможности
+           // класса Convert
             Console.WriteLine("Please, input type bool: ");
             check = Convert.ToBoolean(Console.ReadLine()[0]-48);
             Console.WriteLine("Please, input type byte: ");
@@ -141,21 +152,21 @@ namespace ConsoleApp1
             ch = (char)Console.ReadLine()[0];
             Console.WriteLine("Please, input type Demical: ");
             dec = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine($"Please, input type double: ");
+            Console.WriteLine("Please, input type double: ");
             dob = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine($"Please, input type float: ");
+            Console.WriteLine("Please, input type float: ");
             fl = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine($"Please, input type int: ");
+            Console.WriteLine("Please, input type int: ");
             i = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"Please, input type uint: ");
+            Console.WriteLine("Please, input type uint: ");
             ui = Convert.ToUInt32(Console.ReadLine());
-            Console.WriteLine($"Please, input type long: ");
+            Console.WriteLine("Please, input type long: ");
             lg = Convert.ToInt64(Console.ReadLine());
-            Console.WriteLine($"Please, input type ulong: ");
+            Console.WriteLine("Please, input type ulong: ");
             ulg = Convert.ToUInt64(Console.ReadLine());
-            Console.WriteLine($"Please, input type short: ");
+            Console.WriteLine("Please, input type short: ");
             sh = Convert.ToInt16(Console.ReadLine());
-            Console.WriteLine($"Please, input type ushort: ");
+            Console.WriteLine("Please, input type ushort: ");
             ush = Convert.ToUInt16(Console.ReadLine());
 
             Console.WriteLine($"bool = {check}");
@@ -172,6 +183,9 @@ namespace ConsoleApp1
             Console.WriteLine($"short = {sh}");
             Console.WriteLine($"ushort = {ush}");
         }
+        //////////////////////////////////////////////////////////////////////////////
+
+        //Выполните упаковку и распаковку значимых типов
         static void zd1_c()
         {
 
@@ -221,17 +235,18 @@ namespace ConsoleApp1
             object och = ch;
             ch = (char)och;
         }
-            struct one_struct
-            { 
-
-            }
+        //Продемонстрируйте работу с неявно типизированной
+        //переменной.
         static void zd1_df()
         {
-            var a = new[] { 0, 1, 2 };
-            for(var i = 0; i< a.Length; i++)
-                Console.WriteLine($"mas= {a[i]}");
+            //var a = new[] { 0, 1, 2 };
+            //for(var i = 0; i< a.Length; i++)
+            //    Console.WriteLine($"mas= {a[i]}");
+            var vr = 2;
+            
+            Console.WriteLine(vr);
         }
-
+        //Продемонстрируйте пример работы с Nullable переменной
         static void zd1_e()
         {
             int? nullable_value = null;
@@ -239,6 +254,16 @@ namespace ConsoleApp1
             short? nullable2_value = 5;
             Console.WriteLine("Имеет ли значение и если имеет то какое: " + nullable2_value.HasValue.ToString() + ' ' + nullable2_value);
         }
+        //        . Определите переменную типа var и присвойте ей любое
+        //значение.Затем следующей инструкцией присвойте ей значение
+        //другого типа.Объясните причину ошибки.
+        static void zd1_f()
+        {
+            var a = 1;
+            a = 'b';
+            Console.WriteLine(a);
+        }
+        //Объявите строковые литералы. Сравните их
         static void zd2_a()
         {
             string str1 = "hello1", str2 = "hello2";
@@ -246,6 +271,10 @@ namespace ConsoleApp1
             Console.WriteLine($"str2 = {str2}");
             Console.WriteLine("Результат сравнение строк str1 и str2 " + str1.CompareTo(str2));
         }
+//        Создайте три строки на основе String. Выполните: сцепление,
+//копирование, выделение подстроки, разделение строки на слова,
+//вставки подстроки в заданную позицию, удаление заданной
+//подстроки.
         static void zd2_b()
         {
             string str1 = "ab", str2 = "abc", str3 = "abcd";
@@ -268,7 +297,9 @@ namespace ConsoleApp1
             string substr = Console.ReadLine();
             Console.WriteLine(str3.Replace(substr, ""));
         }
-
+//        Создайте пустую и null строку.Продемонстрируйте
+//использование метода string.IsNullOrEmpty.Продемонстрируйте
+//что еще можно выполнить с такими строками
         static void zd2_c()
         {
             string s1 = "abcd";
@@ -287,6 +318,8 @@ namespace ConsoleApp1
                     return String.Format("(\"{0}\") is neither null nor empty", s);
             }
         }
+//        Создайте строку на основе StringBuilder.Удалите определенные
+//позиции и добавьте новые символы в начало и конец строки.
         static void zd2_d()
         {
             StringBuilder str7 = new StringBuilder("Hello World!");
@@ -298,6 +331,8 @@ namespace ConsoleApp1
             str7.Insert(str7.Length, "--");
             Console.WriteLine("Строка str7 после вставки \"--\" в начале и конце: " + str7.ToString());
         }
+//        Создайте целый двумерный массив и выведите его на консоль в
+//отформатированном виде(матрица). 
         static void zd3_a()
         {
             int[][] arr = new int[5][];
@@ -316,6 +351,9 @@ namespace ConsoleApp1
                 Console.Write("\n");
             }
         }
+//        Создайте одномерный массив строк.Выведите на консоль его
+//содержимое, длину массива. Поменяйте произвольный элемент
+//(пользователь определяет позицию и значение).
 
         static void zd3_b()
         {
@@ -334,6 +372,8 @@ namespace ConsoleApp1
                 Console.Write(str_mas[i] + ' ');
             Console.Write('\n');
         }
+//        Создайте ступечатый(не выровненный) массив вещественных
+//чисел с 3-мя строками, в каждой из которых 2, 3 и 4 столбцов
         static void zd3_c()
         {
             int[][] mas1 = new int[3][];
@@ -352,6 +392,8 @@ namespace ConsoleApp1
                 Console.Write('\n');
             }
         }   
+//        . Создайте неявно типизированные переменные для хранения
+//массива и строки.
         static void zd3_d()
         {
             // d.Создайте неявно типизированные переменные для хранения массива и строки
@@ -363,6 +405,8 @@ namespace ConsoleApp1
             var String = str;
 
         }
+//        a.Задайте кортеж из 5 элементов с типами int, string, char, string,
+//ulong.
         static void zd4()
         {
             (int, string, char, string, ulong) tuple = (a: 4, b: "jeka", c: 'a', d: "string", e: 56);
@@ -381,6 +425,11 @@ namespace ConsoleApp1
             else
                 Console.Write("Кортежи не равны!");
         }
+        //        Определите две локальные функции.
+        //b.Разместите в одной из них блок checked, в котором определите
+        //переменную типа int с максимальным возможным значением
+        //этого типа.Во второй функции определите блок unchecked с
+        //таким же содержимым. 
         static void zd6()
         {
             int ten = 10;
@@ -398,7 +447,7 @@ namespace ConsoleApp1
                 unchecked
                 {
                     int i3 = 2147483647;
-                    Console.WriteLine(i3);
+                    Console.WriteLine(i3 + 1);
                 }
             }
             fun1();
