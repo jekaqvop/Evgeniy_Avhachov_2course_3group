@@ -112,7 +112,15 @@ namespace лаба_3
         }
         static Customer()
         {
-            
+            Console.WriteLine("Static Customer");
+        }
+        public Customer(int id, string name) : this (1)
+        {
+
+        }
+        private Customer(int id)
+        {
+
         }
         private byte[] Hashfunck(int id)
         {
@@ -162,8 +170,9 @@ namespace лаба_3
             this.balans = outArgument;
         }
         
+        
     }
-    class Partial
+    partial class Partial
     {
         public double Real { get; set; }
 
@@ -178,24 +187,28 @@ namespace лаба_3
             return 1380053253 + Real.GetHashCode();
         }
     }
+    partial class Partia
+    {
+        
+    }
     class Program
     {
         static void Main(string[] args)
-        {
+        {  
+            Random rnd = new Random();
+            Customer cuto = new Customer(1);
             var cust = new Customer();
-            Customer[] Cust = new Customer[4];
-           
-                Random rnd = new Random();
+            Customer[] Cust = new Customer[4];          
+              
 
-            //Получить случайное число (в диапазоне от 0 до 10)
 
-            Cust[0] = new Customer(1, "c", $"bsurname ", $"gmidName ", $"baddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
+            Cust[0] = new Customer(1, "c", "bsurname ", "gmidName ", "baddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
             rnd = new Random(3);
 
-            Cust[1] = new Customer(2, "a", $"agsurname ", $"abmidName", $"aaddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
+            Cust[1] = new Customer(2, "a", "agsurname ", "abmidName", "aaddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
             rnd = new Random(2);
-            Cust[2] = new Customer(3, "d", $"dsurname ", $"bmidName ", $"daddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
-            Cust[3] = new Customer(3, "b", $"dsurname ", $"bmidName ", $"daddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
+            Cust[2] = new Customer(3, "d", "dsurname ", "bmidName ", "daddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
+            Cust[3] = new Customer(3, "b", "dsurname ", "bmidName ", "daddress ", rnd.Next(0, 1000), rnd.Next(0, 1000));
 
             var result = from user in Cust
                          orderby user.Name
