@@ -13,8 +13,6 @@ namespace лаба_5
         void move();
 
 
-
-
     }
 
 }

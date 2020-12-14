@@ -1,0 +1,10 @@
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\bin\Debug\лаба 12.exe.config
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\bin\Debug\лаба 12.exe
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\bin\Debug\лаба 12.pdb
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\obj\Debug\лаба 12.csprojAssemblyReference.cache
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\obj\Debug\лаба 12.csproj.CoreCompileInputs.cache
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\obj\Debug\лаба 12.exe
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\obj\Debug\лаба 12.pdb
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\bin\Debug\ClassLibrary1.dll
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\bin\Debug\ClassLibrary1.pdb
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 12\лаба 12\obj\Debug\лаба 12.csproj.CopyComplete

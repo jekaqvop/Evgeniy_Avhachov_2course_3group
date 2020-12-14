@@ -1,0 +1,34 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Flower[4]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/лаба_14/лаба%2014%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+</SOAP-ENC:Array>
+<a1:Flower id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/лаба_14/лаба%2014%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<color xsi:null="1"/>
+<Plant_x002B_hidth>0</Plant_x002B_hidth>
+<Plant_x002B_vid xsi:null="1"/>
+<Plant_x002B_age>2016-12-20T00:00:00.0000000+03:00</Plant_x002B_age>
+</a1:Flower>
+<a1:Flower id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/лаба_14/лаба%2014%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<color xsi:null="1"/>
+<Plant_x002B_hidth>0</Plant_x002B_hidth>
+<Plant_x002B_vid xsi:null="1"/>
+<Plant_x002B_age>2017-12-20T00:00:00.0000000+03:00</Plant_x002B_age>
+</a1:Flower>
+<a1:Flower id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/лаба_14/лаба%2014%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<color xsi:null="1"/>
+<Plant_x002B_hidth>0</Plant_x002B_hidth>
+<Plant_x002B_vid xsi:null="1"/>
+<Plant_x002B_age>2018-12-20T00:00:00.0000000+03:00</Plant_x002B_age>
+</a1:Flower>
+<a1:Flower id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/лаба_14/лаба%2014%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<color xsi:null="1"/>
+<Plant_x002B_hidth>0</Plant_x002B_hidth>
+<Plant_x002B_vid xsi:null="1"/>
+<Plant_x002B_age>2016-12-20T00:00:00.0000000+03:00</Plant_x002B_age>
+</a1:Flower>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

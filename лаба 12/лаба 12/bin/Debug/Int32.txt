@@ -1,0 +1,208 @@
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 
+Assembly_name: mscorlib
+Number_Of_Public_Constructors: 0
+public_methods: CompareTo CompareTo Equals Equals GetHashCode ToString ToString ToString ToString Parse Parse Parse Parse TryParse TryParse GetTypeCode GetType 
+Fields_And_Properties:  MaxValue  MinValue 
+Interfases: IComparable IFormattable IConvertible IComparable`1 IEquatable`1 

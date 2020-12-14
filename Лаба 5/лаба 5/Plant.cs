@@ -58,6 +58,10 @@ namespace лаба_5
 
             return str;
         }
+        public virtual void zapah()
+        {
+            Console.WriteLine("я пахну");
+        }
     }
        
 } 

@@ -1,0 +1,10 @@
+Method: HardSpace Path: none File: C:\ Called: чт.10.12.2020 12:54:52
+Method: HardSpace Path: none File: D:\ Called: чт.10.12.2020 12:54:52
+Method: GetDirInfo Path: none File: none Called: чт.10.12.2020 12:54:52
+Method: CreateDirAndFile Path: AESInspect.txt File: none Called: чт.10.12.2020 12:54:52
+Method: CopyDir Path: AESFiles File: AESInspect Called: чт.10.12.2020 14:54:52
+Method: HardSpace Path: none File: C:\ Called: чт.10.12.2020 14:54:52
+Method: HardSpace Path: none File: D:\ Called: чт.10.12.2020 14:54:52
+Method: GetDirInfo Path: none File: none Called: чт.10.12.2020 12:54:52
+Method: CreateDirAndFile Path: AESInspect.txt File:  Called: чт.10.12.2020 12:54:52
+Method: CopyDir Path: AESFiles File: AESInspect Called: чт.10.12.2020 12:54:52

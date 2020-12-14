@@ -1,0 +1,12 @@
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\bin\Debug\лаба 14.exe.config
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\bin\Debug\лаба 14.exe
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\bin\Debug\лаба 14.pdb
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\obj\Debug\лаба 14.csprojAssemblyReference.cache
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\obj\Debug\лаба 14.csproj.CoreCompileInputs.cache
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\obj\Debug\лаба 14.exe
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\obj\Debug\лаба 14.pdb
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\bin\Debug\Newtonsoft.Json.dll
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\bin\Debug\System.Private.DataContractSerialization.dll
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\bin\Debug\Newtonsoft.Json.xml
+D:\Учёба 2 курс 1 сем\ООП\ООП\лаба 14\лаба 14\obj\Debug\лаба 14.csproj.CopyComplete

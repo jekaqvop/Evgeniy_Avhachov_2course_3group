@@ -22,6 +22,7 @@ namespace лаба_5
             glad.Color = "white";
             glad.Hidth = 11;
             glad.Vid = "Gladiolus One";
+            glad.zapah();
             Console.WriteLine(glad.ToString());
 
             Gladiolus glad2 = new Gladiolus();
@@ -56,6 +57,8 @@ namespace лаба_5
             roza.Color = "white";
             roza.Hidth = 10;
             roza.Vid = "какая-то роза";
+
+            roza.zapah();
             Console.WriteLine(roza.ToString());
 
             Plant rozaPlant = new Rose();
@@ -71,8 +74,8 @@ namespace лаба_5
             Console.WriteLine("проверка на принадлежность rozaPlant is Rose:" + (rozaPlant is Rose));
             Console.WriteLine("проверка на принадлежность rozaPlant is Plant:" + (rozaPlant is Plant));
             Console.WriteLine("проверка на принадлежность rozaPlant is Flower:" + (rozaPlant is Flower));
-            Console.WriteLine("проверка на принадлежность roza is Rose:" + (roza is Plant));
-            Console.WriteLine("проверка на принадлежность roza is Rose:" + (roza is Paper));
+            Console.WriteLine("проверка на принадлежность roza is Rose:" + (glad is Plant));
+            Console.WriteLine("проверка на принадлежность roza is Rose:" + (glad is interface1));
 
             interface1[] arr = { glad, glad2 };
             Printer print = new Printer();
@@ -81,7 +84,8 @@ namespace лаба_5
                 print.iAmPrinting(arr[i]);
                 Console.WriteLine();
             }
-
+            glad.move();
+            ((interface1)glad).move();
             Console.ReadKey();
         }
     }

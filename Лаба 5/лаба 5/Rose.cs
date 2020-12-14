@@ -30,6 +30,10 @@ namespace лаба_5
 
             return str;
         }
-       
+
+        public override void zapah()
+        {
+            Console.WriteLine("я не пахну");
+        }
     }
 }
